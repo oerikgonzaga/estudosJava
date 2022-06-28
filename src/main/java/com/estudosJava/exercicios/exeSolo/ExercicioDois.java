@@ -16,7 +16,7 @@ public class ExercicioDois {
 
         double aulasMes = aulasDadas * 4.5;
         double salarioBase =  aulasMes * valorAula;
-        double adicionalHora = valorAula * (100 / 5);
+        double adicionalHora = valorAula / 100 * 5;
         double remuneracaoTotal = salarioBase + adicionalHora;
         double dsr = remuneracaoTotal / 6;
         double salario = dsr + remuneracaoTotal;
@@ -25,7 +25,6 @@ public class ExercicioDois {
         System.out.println("Adicional hora: " + adicionalHora);
         System.out.println("Descanso Semanal Remunerado: " + dsr);
         System.out.println("Total a receber este mes: " + salario);
-
     }
 
 }
