@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Resolução de Exercicio: &#10;&#10;Escreva um programa que dado o número de aulas semanais e o valor de cada aula, calcula o valor do salário de um professor. Exibir: salário base, hora atividade, descanso semanal remunerado e salário.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioQuatro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioUm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioUmV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioUmV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioCinco.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioQuatro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioQuatro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/oerikgonzaga/Workspace/Meus Estudos/estudosJava/ambienteJava&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -53,9 +51,9 @@
       <recent name="main.java.com.estudosJava.exercicios.exeSolo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main.java.com.estudosJava.exercicios.exeSolo.ExercicioUm">
-    <configuration name="ExercicioDois" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.ExercicioDois" />
+  <component name="RunManager" selected="Application.ExercicioQuatro">
+    <configuration name="ExercicioQuatro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.ExercicioQuatro" />
       <module name="meu_ambiente" />
       <extension name="coverage">
         <pattern>
@@ -121,6 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExercicioQuatro" />
         <item itemvalue="Application.main.java.com.estudosJava.exercicios.exeSolo.ExercicioUm" />
         <item itemvalue="Application.ExercicioUmV3" />
         <item itemvalue="Application.main.java.com.estudosJava.exercicios.exeSolo.exercicioUmV2" />
