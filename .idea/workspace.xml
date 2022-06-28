@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Resolução de Exercicio: &#10;&#10;Escreva um programa que dado o número de aulas semanais e o valor de cada aula, calcula o valor do salário de um professor. Exibir: salário base, hora atividade, descanso semanal remunerado e salário.">
+    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Resolução de Exercicio 4: &#10;&#10;Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência, calcule e mostre.&#10;&#10;a) O valor de cada quilowatt;&#10;b) O valor a ser pago por essa residência;&#10;c) O valor a ser pago com desconto de 15%.">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioCinco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioQuatro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioQuatro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655929904707</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Resolução de Exercicio 4: &#10;&#10;Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência, calcule e mostre.&#10;&#10;a) O valor de cada quilowatt;&#10;b) O valor a ser pago por essa residência;&#10;c) O valor a ser pago com desconto de 15%.">
+      <created>1656443137365</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656443137365</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,7 +179,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Introdução a Métodos, com retorno e com parametro + Calculo do IMC.&#10;Com comentários." />
     <MESSAGE value="Resolução de Exercicio: &#10;&#10;Escreva um programa que dado o número de aulas semanais e o valor de cada aula, calcula o valor do salário de um professor. Exibir: salário base, hora atividade, descanso semanal remunerado e salário." />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolução de Exercicio: &#10;&#10;Escreva um programa que dado o número de aulas semanais e o valor de cada aula, calcula o valor do salário de um professor. Exibir: salário base, hora atividade, descanso semanal remunerado e salário." />
+    <MESSAGE value="Resolução de Exercicio 4: &#10;&#10;Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência, calcule e mostre.&#10;&#10;a) O valor de cada quilowatt;&#10;b) O valor a ser pago por essa residência;&#10;c) O valor a ser pago com desconto de 15%." />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolução de Exercicio 4: &#10;&#10;Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência, calcule e mostre.&#10;&#10;a) O valor de cada quilowatt;&#10;b) O valor a ser pago por essa residência;&#10;c) O valor a ser pago com desconto de 15%." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
