@@ -4,7 +4,7 @@ public class Account {
 
     Integer number;
     String clientName;
-    Integer agancy;
+    Integer agency;
     String accountType;
     Double balance;
 
