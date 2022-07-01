@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Resolução de Exercicio 4: &#10;&#10;Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência, calcule e mostre.&#10;&#10;a) O valor de cada quilowatt;&#10;b) O valor a ser pago por essa residência;&#10;c) O valor a ser pago com desconto de 15%.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioCinco.java" afterDir="false" />
+    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Corrigindo calculo adicional hora.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudojavabasico/bancoaway/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudojavabasico/bancoaway/financialTransaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioQuatro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioQuatro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +21,37 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -49,9 +83,9 @@
       <recent name="main.java.com.estudosJava.exercicios.exeSolo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExercicioQuatro">
-    <configuration name="ExercicioQuatro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.ExercicioQuatro" />
+  <component name="RunManager" selected="Application.ExercicioDois">
+    <configuration name="ExercicioDois" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.ExercicioDois" />
       <module name="meu_ambiente" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExercicioQuatro" />
+        <item itemvalue="Application.ExercicioDois" />
+        <item itemvalue="Application.MetodosIntroducao" />
+        <item itemvalue="Application.main.java.com.estudosJava.exercicios.exeSolo.exercicioUmV2" />
         <item itemvalue="Application.main.java.com.estudosJava.exercicios.exeSolo.ExercicioUm" />
         <item itemvalue="Application.ExercicioUmV3" />
-        <item itemvalue="Application.main.java.com.estudosJava.exercicios.exeSolo.exercicioUmV2" />
-        <item itemvalue="Application.MetodosIntroducao" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656443137365</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Corrigindo calculo adicional hora.">
+      <created>1656445280753</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656445280753</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,7 +211,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -180,7 +233,8 @@
     <MESSAGE value="Introdução a Métodos, com retorno e com parametro + Calculo do IMC.&#10;Com comentários." />
     <MESSAGE value="Resolução de Exercicio: &#10;&#10;Escreva um programa que dado o número de aulas semanais e o valor de cada aula, calcula o valor do salário de um professor. Exibir: salário base, hora atividade, descanso semanal remunerado e salário." />
     <MESSAGE value="Resolução de Exercicio 4: &#10;&#10;Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência, calcule e mostre.&#10;&#10;a) O valor de cada quilowatt;&#10;b) O valor a ser pago por essa residência;&#10;c) O valor a ser pago com desconto de 15%." />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolução de Exercicio 4: &#10;&#10;Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência, calcule e mostre.&#10;&#10;a) O valor de cada quilowatt;&#10;b) O valor a ser pago por essa residência;&#10;c) O valor a ser pago com desconto de 15%." />
+    <MESSAGE value="Corrigindo calculo adicional hora." />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo calculo adicional hora." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
