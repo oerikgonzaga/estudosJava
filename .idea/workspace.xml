@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Corrigindo calculo adicional hora.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudojavabasico/bancoaway/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudojavabasico/bancoaway/financialTransaction.java" afterDir="false" />
+    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Correção de nome de objeto.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudojavabasico/bancoaway/BankSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioQuatro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioQuatro.java" afterDir="false" />
     </list>
@@ -203,7 +202,28 @@
       <option name="project" value="LOCAL" />
       <updated>1656445280753</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Criando uma classe de conta bancária.">
+      <created>1656634729500</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656634729500</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Criando uma classe de operações financeiras,&#10;com, depósito, saque e transferencia.">
+      <created>1656634897896</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656634897896</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Correção de nome de objeto.">
+      <created>1656636305647</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656636305647</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,7 +254,10 @@
     <MESSAGE value="Resolução de Exercicio: &#10;&#10;Escreva um programa que dado o número de aulas semanais e o valor de cada aula, calcula o valor do salário de um professor. Exibir: salário base, hora atividade, descanso semanal remunerado e salário." />
     <MESSAGE value="Resolução de Exercicio 4: &#10;&#10;Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência, calcule e mostre.&#10;&#10;a) O valor de cada quilowatt;&#10;b) O valor a ser pago por essa residência;&#10;c) O valor a ser pago com desconto de 15%." />
     <MESSAGE value="Corrigindo calculo adicional hora." />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo calculo adicional hora." />
+    <MESSAGE value="Criando uma classe de conta bancária." />
+    <MESSAGE value="Criando uma classe de operações financeiras,&#10;com, depósito, saque e transferencia." />
+    <MESSAGE value="Correção de nome de objeto." />
+    <option name="LAST_COMMIT_MESSAGE" value="Correção de nome de objeto." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
