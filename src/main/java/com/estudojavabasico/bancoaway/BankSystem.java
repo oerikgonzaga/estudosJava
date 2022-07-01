@@ -6,14 +6,14 @@ public class BankSystem {
         var financialTransaction = new financialTransaction();
 
         Account c1 = new Account();
-        c1.clientName = "Erik Gonzaga";
+        c1.clientName = "Erik";
         c1.agency = 1;
         c1.number = 369;
         c1.accountType = "Corrente";
         c1.balance = 950.00;
 
         Account c2 = new Account();
-        c2.clientName = "Lorenzo Gonzaga";
+        c2.clientName = "Lorenzo";
         c2.agency = 1;
         c2.number = 367;
         c2.accountType = "Poupança";
