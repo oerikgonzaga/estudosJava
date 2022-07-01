@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Correção de nome de objeto.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudojavabasico/bancoaway/BankSystem.java" afterDir="false" />
+    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Alteração dos nomes dos clientes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioQuatro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioQuatro.java" afterDir="false" />
     </list>
@@ -82,7 +81,20 @@
       <recent name="main.java.com.estudosJava.exercicios.exeSolo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExercicioDois">
+  <component name="RunManager" selected="Application.ExercicioQuatro">
+    <configuration name="ExercicioCinco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.ExercicioCinco" />
+      <module name="meu_ambiente" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.estudosJava.exercicios.exeSolo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExercicioDois" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.ExercicioDois" />
       <module name="meu_ambiente" />
@@ -96,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioUmV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.ExercicioUmV3" />
+    <configuration name="ExercicioQuatro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.ExercicioQuatro" />
       <module name="meu_ambiente" />
       <extension name="coverage">
         <pattern>
@@ -122,19 +134,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.com.estudosJava.exercicios.exeSolo.ExercicioUm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.ExercicioUm" />
-      <module name="meu_ambiente" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.com.estudosJava.exercicios.exeSolo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="main.java.com.estudosJava.exercicios.exeSolo.exercicioUmV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.exercicioUmV2" />
       <module name="meu_ambiente" />
@@ -150,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExercicioQuatro" />
+        <item itemvalue="Application.ExercicioCinco" />
         <item itemvalue="Application.ExercicioDois" />
         <item itemvalue="Application.MetodosIntroducao" />
         <item itemvalue="Application.main.java.com.estudosJava.exercicios.exeSolo.exercicioUmV2" />
-        <item itemvalue="Application.main.java.com.estudosJava.exercicios.exeSolo.ExercicioUm" />
-        <item itemvalue="Application.ExercicioUmV3" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +222,35 @@
       <option name="project" value="LOCAL" />
       <updated>1656636305647</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Nova classe sistema do banco, criação de clientes, exemplo de movimentação.">
+      <created>1656636328190</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656636328190</updated>
+    </task>
+    <task id="LOCAL-00010" summary="nada commitar">
+      <created>1656636345890</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1656636345890</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Faça um programa que receba o preço de fábrica de um veículo, o percentual de lucro do distribuidor e o percentual de impostos, calcule e mostre:&#10;   a) O valor correspondente ao lucro do distribuidor;&#10;   b) O valor correspondente aos impostos; &#10;   c) O preço final do veículo;">
+      <created>1656711973832</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656711973832</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Alteração dos nomes dos clientes">
+      <created>1656711989356</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1656711989356</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,7 +284,11 @@
     <MESSAGE value="Criando uma classe de conta bancária." />
     <MESSAGE value="Criando uma classe de operações financeiras,&#10;com, depósito, saque e transferencia." />
     <MESSAGE value="Correção de nome de objeto." />
-    <option name="LAST_COMMIT_MESSAGE" value="Correção de nome de objeto." />
+    <MESSAGE value="Nova classe sistema do banco, criação de clientes, exemplo de movimentação." />
+    <MESSAGE value="nada commitar" />
+    <MESSAGE value="Faça um programa que receba o preço de fábrica de um veículo, o percentual de lucro do distribuidor e o percentual de impostos, calcule e mostre:&#10;   a) O valor correspondente ao lucro do distribuidor;&#10;   b) O valor correspondente aos impostos; &#10;   c) O preço final do veículo;" />
+    <MESSAGE value="Alteração dos nomes dos clientes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alteração dos nomes dos clientes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

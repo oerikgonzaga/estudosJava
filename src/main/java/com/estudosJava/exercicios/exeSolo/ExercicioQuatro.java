@@ -21,7 +21,7 @@ public class ExercicioQuatro {
         System.out.println("");
         System.out.println("valor de cada kwh: " + valorKWh);
         System.out.println("");
-        System.out.println("O Valor da Conta é: " + valorFinal);
-        System.out.println("O Valor da Conta com desconto de 15% é: " + valorComDesconto);
+        System.out.println("O Valor da conta é: " + valorFinal);
+        System.out.println("O Valor da conta com desconto de 15% é: " + valorComDesconto);
     }
 }
