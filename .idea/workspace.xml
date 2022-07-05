@@ -55,7 +55,20 @@
       <recent name="main.java.com.estudosJava.exercicios.exeSolo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.estudosjava.estruturadecontrole.ElseIf">
+  <component name="RunManager" selected="Application.ExercicioUm">
+    <configuration name="ExercicioUm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudosjava.exercicios.listab.ExercicioUm" />
+      <module name="meu_ambiente" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudosjava.exercicios.listab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="estudosjava.estruturadecontrole.Else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudosjava.estruturadecontrole.Else" />
       <module name="meu_ambiente" />
@@ -108,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="estudosjava.intro.HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudosjava.intro.HelloWorld" />
-      <module name="meu_ambiente" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudosjava.intro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExercicioUm" />
         <item itemvalue="Application.estudosjava.estruturadecontrole.ElseIf" />
         <item itemvalue="Application.estudosjava.estruturadecontrole.Else" />
         <item itemvalue="Application.estudosjava.estruturadecontrole.If" />
         <item itemvalue="Application.estudosjava.estruturadecontrole.Switch" />
-        <item itemvalue="Application.estudosjava.intro.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656996167178</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Reorganizando Pastas">
+      <created>1656996322873</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1656996322873</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

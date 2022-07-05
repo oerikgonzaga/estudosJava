@@ -25,7 +25,8 @@ public class ExercicioUm {
                 if (estados[i].equalsIgnoreCase(estadoInput)) {
                     String posicaoSigla = estados[i] + " - " + siglaEstados[i];
                     System.out.println(posicaoSigla);
-                } else
+                    break;
+                } if (i == estados.length -1)
                     System.out.println("Erro, Estado inexistente. Verifique a Ortografia.");
                 }
             }
