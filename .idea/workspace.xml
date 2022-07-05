@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Removendo Import.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/string/TextIndexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/string/TextIndexOf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/string/TextoCharAt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/string/TextoReplace.java" afterDir="false" />
+    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Criando laços de repetição - For">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/lacosderepeticao/For.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioUm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioUm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +52,7 @@
       <recent name="main.java.com.estudosJava.exercicios.exeSolo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TextIndexOf2">
+  <component name="RunManager" selected="Application.For">
     <configuration name="ExercicioTres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.ExercicioTres" />
       <module name="meu_ambiente" />
@@ -76,6 +72,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.java.com.estudosJava.exercicios.exeSolo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.lacosderepeticao.For" />
+      <module name="meu_ambiente" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.estudosJava.lacosderepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.com.estudosJava.exercicios.exeSolo.ExercicioUm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.ExercicioUm" />
-      <module name="meu_ambiente" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.com.estudosJava.exercicios.exeSolo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.For" />
         <item itemvalue="Application.TextIndexOf2" />
         <item itemvalue="Application.TextoCharAt" />
         <item itemvalue="Application.ExercicioUmV3" />
         <item itemvalue="Application.ExercicioTres" />
-        <item itemvalue="Application.main.java.com.estudosJava.exercicios.exeSolo.ExercicioUm" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +240,8 @@
     <MESSAGE value="Resolvendo Exercicio Dois com if else." />
     <MESSAGE value="Resolvendo Exercicio Um com Switch" />
     <MESSAGE value="Removendo Import." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removendo Import." />
+    <MESSAGE value="Criando laços de repetição - For" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando laços de repetição - For" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
