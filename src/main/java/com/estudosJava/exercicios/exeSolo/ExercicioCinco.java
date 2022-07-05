@@ -1,6 +1,5 @@
 package main.java.com.estudosJava.exercicios.exeSolo;
 
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 public class ExercicioCinco {
