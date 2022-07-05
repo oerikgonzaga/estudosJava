@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Resolvendo Exercicio Dois com if else.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioUmV3.java" afterDir="false" />
+    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Removendo Import.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/string/TextIndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/string/TextIndexOf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/string/TextoCharAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/string/TextoReplace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioCinco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioCinco.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioUm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudosJava/exercicios/exeSolo/ExercicioUm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,35 +56,9 @@
       <recent name="main.java.com.estudosJava.exercicios.exeSolo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExercicioUmV3">
-    <configuration name="ExercicioQuatro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.ExercicioQuatro" />
-      <module name="meu_ambiente" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.com.estudosJava.exercicios.exeSolo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TextIndexOf2">
     <configuration name="ExercicioTres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.ExercicioTres" />
-      <module name="meu_ambiente" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.com.estudosJava.exercicios.exeSolo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExercicioUmV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.ExercicioUmV2" />
       <module name="meu_ambiente" />
       <extension name="coverage">
         <pattern>
@@ -107,6 +83,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TextIndexOf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.string.TextIndexOf2" />
+      <module name="meu_ambiente" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.estudosJava.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextoCharAt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.string.TextoCharAt" />
+      <module name="meu_ambiente" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.estudosJava.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main.java.com.estudosJava.exercicios.exeSolo.ExercicioUm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.com.estudosJava.exercicios.exeSolo.ExercicioUm" />
       <module name="meu_ambiente" />
@@ -122,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextIndexOf2" />
+        <item itemvalue="Application.TextoCharAt" />
         <item itemvalue="Application.ExercicioUmV3" />
         <item itemvalue="Application.ExercicioTres" />
         <item itemvalue="Application.main.java.com.estudosJava.exercicios.exeSolo.ExercicioUm" />
-        <item itemvalue="Application.ExercicioUmV2" />
-        <item itemvalue="Application.ExercicioQuatro" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656975036435</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Resolvendo Exercicio Um com Switch">
+      <created>1656982843044</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656982843045</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Removendo Import.">
+      <created>1656982869512</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656982869512</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +242,9 @@
     <MESSAGE value="Resolvendo ExercicioUm:&#10;&#10;Lendo uma lista de estados com entrada pelo terminal, indicando o resultado listado em outra lista.&#10;&#10;Imprimindo mensagem de erro caso ortografia esteja errada.&#10;(precisa resolver)" />
     <MESSAGE value="Resolvendo Exercicio três:&#10;&#10; Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre quantos anos ela terá em 2050." />
     <MESSAGE value="Resolvendo Exercicio Dois com if else." />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolvendo Exercicio Dois com if else." />
+    <MESSAGE value="Resolvendo Exercicio Um com Switch" />
+    <MESSAGE value="Removendo Import." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removendo Import." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
