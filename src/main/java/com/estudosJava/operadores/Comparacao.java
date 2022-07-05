@@ -1,6 +1,6 @@
 package main.java.com.estudosJava.operadores;
 
-public class OperadorComparacao {
+public class Comparacao {
 
     public static void main(String[] args) {
 
