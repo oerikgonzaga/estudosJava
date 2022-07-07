@@ -12,6 +12,11 @@ public class MetodosIntroducao {
 
         imprimiNome();
     }
+    // void não retorna, nesse exemplo:
+    // é criado um metodo aonde só exibimos a informação contida dentro do metodo;
+
+    // este Metodo é conhecido como sem Retorno
+
     static void imprimiNome() {
         System.out.println("Erik Gonzaga");
     }
