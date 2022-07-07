@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Corrreção ExercicioUm">
+    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="nda commitar">
+      <change afterPath="$PROJECT_DIR$/src/estudosjava/metodosv2/MetodosParametro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudosjava/metodosv2/MetodosRetorno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudosjava/metodos/MetodosComRetorno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudosjava/metodos/MetodosComRetorno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudosjava/metodos/MetodosIntroducao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudosjava/metodos/MetodosIntroducao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +26,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/estudosjava/exercicios/listab/ExercicioUmV2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/testes/Ex6ddMMaaaaVida.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,32 +44,33 @@
     <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/oerikgonzaga/Workspace/Santander"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/oerikgonzaga/Workspace/Santander&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/estudosjava/exercicios/listab" />
       <recent name="$PROJECT_DIR$/src/estudosjava/metodos" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="estudosjava.metodosv2" />
       <recent name="estruturadecontrole" />
       <recent name="main.java.com.estudosJava.lacosderepeticao" />
       <recent name="main.java.com.estudosJava.exercicios.exeSolo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExercicioUm">
-    <configuration name="ExercicioUm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudosjava.exercicios.listab.ExercicioUm" />
+  <component name="RunManager" selected="Application.MetodosComRetorno">
+    <configuration name="MetodosComRetorno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudosjava.metodos.MetodosComRetorno" />
       <module name="meu_ambiente" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudosjava.exercicios.listab.*" />
+          <option name="PATTERN" value="estudosjava.metodos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="estudosjava.estruturadecontrole.Else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudosjava.estruturadecontrole.Else" />
+    <configuration name="MetodosIntroducao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudosjava.metodos.MetodosIntroducao" />
       <module name="meu_ambiente" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudosjava.estruturadecontrole.*" />
+          <option name="PATTERN" value="estudosjava.metodos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="estudosjava.estruturadecontrole.ElseIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudosjava.estruturadecontrole.ElseIf" />
+    <configuration name="MetodosParametro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudosjava.metodosv2.MetodosParametro" />
       <module name="meu_ambiente" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudosjava.estruturadecontrole.*" />
+          <option name="PATTERN" value="estudosjava.metodosv2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="estudosjava.estruturadecontrole.If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudosjava.estruturadecontrole.If" />
+    <configuration name="MetodosRetorno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudosjava.metodosv2.MetodosRetorno" />
       <module name="meu_ambiente" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudosjava.estruturadecontrole.*" />
+          <option name="PATTERN" value="estudosjava.metodosv2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,26 +117,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="estudosjava.estruturadecontrole.Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudosjava.estruturadecontrole.Switch" />
+    <configuration name="Unnamed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <module name="meu_ambiente" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudosjava.estruturadecontrole.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExercicioUm" />
-        <item itemvalue="Application.estudosjava.estruturadecontrole.ElseIf" />
-        <item itemvalue="Application.estudosjava.estruturadecontrole.Else" />
-        <item itemvalue="Application.estudosjava.estruturadecontrole.If" />
-        <item itemvalue="Application.estudosjava.estruturadecontrole.Switch" />
+        <item itemvalue="Application.MetodosComRetorno" />
+        <item itemvalue="Application.MetodosIntroducao" />
+        <item itemvalue="Application.MetodosParametro" />
+        <item itemvalue="Application.Unnamed" />
+        <item itemvalue="Application.MetodosRetorno" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656996651258</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="nda commitar">
+      <created>1657071224731</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1657071224731</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,7 +370,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Introdução a Métodos, com retorno e com parametro + Calculo do IMC.&#10;Com comentários." />
     <MESSAGE value="Resolução de Exercicio: &#10;&#10;Escreva um programa que dado o número de aulas semanais e o valor de cada aula, calcula o valor do salário de um professor. Exibir: salário base, hora atividade, descanso semanal remunerado e salário." />
     <MESSAGE value="Iniciando exercicios 3 e 4 (Solo / Prova)" />
     <MESSAGE value="Resolvendo ExercicioUm:&#10;&#10;Lendo uma lista de estados com entrada pelo terminal, indicando o resultado listado em outra lista.&#10;&#10;Imprimindo mensagem de erro caso ortografia esteja errada.&#10;(precisa resolver)" />
@@ -389,7 +394,8 @@
     <MESSAGE value="Estrutura de Controle If, Else e Else If." />
     <MESSAGE value="Reorganizando Pastas" />
     <MESSAGE value="Corrreção ExercicioUm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrreção ExercicioUm" />
+    <MESSAGE value="nda commitar" />
+    <option name="LAST_COMMIT_MESSAGE" value="nda commitar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
