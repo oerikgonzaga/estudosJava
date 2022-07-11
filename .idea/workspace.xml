@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Exemplo de métodos com e sem retorno versão 2">
-      <change afterPath="$PROJECT_DIR$/src/estudosjava/exercicios/listaa/aParImparV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudosjava/exercicios/listaa/aParImparV2.java" afterDir="false" />
+    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Exercicio descobrindo se é par ou impar:&#10;Usando Resto da Divisão: &#10;Versão 1 com Operador Condicional;&#10;Versão 2 com if else.">
+      <change afterPath="$PROJECT_DIR$/src/estudosjava/exercicios/listaa/B1Imc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudosjava/exercicios/listaa/B2Imc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudosjava/exercicios/listaa/aParImparV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudosjava/exercicios/listaa/A1ParImpar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudosjava/exercicios/listaa/aParImparV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudosjava/exercicios/listaa/A2ParImpar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +63,13 @@
       <recent name="main.java.com.estudosJava.exercicios.exeSolo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.aParImparV1">
-    <configuration name="MetodosComRetorno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudosjava.metodos.MetodosComRetorno" />
+  <component name="RunManager" selected="Application.B1Imc">
+    <configuration name="B1Imc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudosjava.exercicios.listaa.B1Imc" />
       <module name="meu_ambiente" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudosjava.metodos.*" />
+          <option name="PATTERN" value="estudosjava.exercicios.listaa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetodosIntroducao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudosjava.metodos.MetodosIntroducao" />
+    <configuration name="B2Imc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudosjava.exercicios.listaa.B2Imc" />
       <module name="meu_ambiente" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudosjava.metodos.*" />
+          <option name="PATTERN" value="estudosjava.exercicios.listaa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,15 +90,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Teste" />
-      <module name="meu_ambiente" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="aParImparV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="estudosjava.exercicios.listaa.aParImparV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudosjava.exercicios.listaa.aParImparV1" />
+      <module name="meu_ambiente" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudosjava.exercicios.listaa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="estudosjava.exercicios.listaa.bImcV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudosjava.exercicios.listaa.bImcV1" />
       <module name="meu_ambiente" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.aParImparV1" />
+        <item itemvalue="Application.B1Imc" />
+        <item itemvalue="Application.B2Imc" />
+        <item itemvalue="Application.estudosjava.exercicios.listaa.bImcV1" />
+        <item itemvalue="Application.estudosjava.exercicios.listaa.aParImparV1" />
         <item itemvalue="Application.testes.Teste" />
-        <item itemvalue="Application.Teste" />
-        <item itemvalue="Application.MetodosComRetorno" />
-        <item itemvalue="Application.MetodosIntroducao" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657168717147</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Exercicio descobrindo se é par ou impar:&#10;Usando Resto da Divisão: &#10;Versão 1 com Operador Condicional;&#10;Versão 2 com if else.">
+      <created>1657535237231</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1657535237231</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -396,7 +411,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Resolvendo Exercicio Dois com if else." />
     <MESSAGE value="Resolvendo Exercicio Um com Switch" />
     <MESSAGE value="Removendo Import." />
     <MESSAGE value="Criando laços de repetição - For" />
@@ -421,7 +435,8 @@
     <MESSAGE value="Adicionando comentários;" />
     <MESSAGE value="Exemplo de métodos com e sem parametros versão 2" />
     <MESSAGE value="Exemplo de métodos com e sem retorno versão 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exemplo de métodos com e sem retorno versão 2" />
+    <MESSAGE value="Exercicio descobrindo se é par ou impar:&#10;Usando Resto da Divisão: &#10;Versão 1 com Operador Condicional;&#10;Versão 2 com if else." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio descobrindo se é par ou impar:&#10;Usando Resto da Divisão: &#10;Versão 1 com Operador Condicional;&#10;Versão 2 com if else." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -2,7 +2,7 @@ package estudosjava.exercicios.listaa;
 
 import java.util.Scanner;
 
-public class aParImparV1 {
+public class A1ParImpar {
 
     public static void main(String[] args) {
 
