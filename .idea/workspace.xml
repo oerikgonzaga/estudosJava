@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Exercicio descobrindo se é par ou impar:&#10;Usando Resto da Divisão: &#10;Versão 1 com Operador Condicional;&#10;Versão 2 com if else.">
+    <list default="true" id="fc7380d4-b380-4bd3-ad9f-1927a6713d73" name="Changes" comment="Exercicio calculo de IMC:&#10;Operador de Atribuição = e precedencia Matemática&#10;v2 com Método com Parametro e return">
       <change afterPath="$PROJECT_DIR$/src/estudosjava/exercicios/listaa/B1Imc.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/estudosjava/exercicios/listaa/B2Imc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudosjava/exercicios/listaa/aParImparV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudosjava/exercicios/listaa/A1ParImpar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudosjava/exercicios/listaa/aParImparV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudosjava/exercicios/listaa/A2ParImpar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <recent name="main.java.com.estudosJava.exercicios.exeSolo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B1Imc">
+  <component name="RunManager" selected="Application.B2Imc">
     <configuration name="B1Imc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudosjava.exercicios.listaa.B1Imc" />
       <module name="meu_ambiente" />
@@ -131,8 +129,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B1Imc" />
         <item itemvalue="Application.B2Imc" />
+        <item itemvalue="Application.B1Imc" />
         <item itemvalue="Application.estudosjava.exercicios.listaa.bImcV1" />
         <item itemvalue="Application.estudosjava.exercicios.listaa.aParImparV1" />
         <item itemvalue="Application.testes.Teste" />
@@ -379,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657535237231</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Renomeando arquivos.">
+      <created>1657538216906</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1657538216906</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,8 +416,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Resolvendo Exercicio Um com Switch" />
-    <MESSAGE value="Removendo Import." />
     <MESSAGE value="Criando laços de repetição - For" />
     <MESSAGE value="Criando laços de repetição - ForArray" />
     <MESSAGE value="Criando um Array com valores e exibindo dados de uma lista com for" />
@@ -436,7 +439,9 @@
     <MESSAGE value="Exemplo de métodos com e sem parametros versão 2" />
     <MESSAGE value="Exemplo de métodos com e sem retorno versão 2" />
     <MESSAGE value="Exercicio descobrindo se é par ou impar:&#10;Usando Resto da Divisão: &#10;Versão 1 com Operador Condicional;&#10;Versão 2 com if else." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio descobrindo se é par ou impar:&#10;Usando Resto da Divisão: &#10;Versão 1 com Operador Condicional;&#10;Versão 2 com if else." />
+    <MESSAGE value="Renomeando arquivos." />
+    <MESSAGE value="Exercicio calculo de IMC:&#10;Operador de Atribuição = e precedencia Matemática&#10;v2 com Método com Parametro e return" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio calculo de IMC:&#10;Operador de Atribuição = e precedencia Matemática&#10;v2 com Método com Parametro e return" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
