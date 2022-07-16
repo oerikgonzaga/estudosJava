@@ -1,3 +1,3 @@
-# estudosJava
+# Estudos de Java
 
-### **Ambiente de estudo Java, Ferramentas, Testes e Exercícios** <h3>
+### **Ambiente de estudo Java, Ferramentas, Testes e Exercícios** 
